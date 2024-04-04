@@ -2,6 +2,7 @@
   "expires": [
     "stackoverflow_plus",
     "speak",
+    "scholarly",
     "nba_stats",
     "earthquake",
     "ImageSearch",
@@ -266,19 +267,6 @@
         "description": "Create forms, checklists and workflows (we call 'em Quests!) that you can assign, schedule or make public.",
         "tags": ["forms", "checklists", "productivity"],
         "title": "Questmate Forms"
-      },
-      "schemaVersion": 1
-    },
-    {
-      "author": "maila",
-      "homepage": "https://scholarly.maila.ai",
-      "identifier": "scholarly",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/scholarly/manifest.json",
-      "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/scholarly/logo.webp",
-        "description": "Scholarly is an AI-powered search engine for exploring scientific literature.",
-        "tags": ["scientific-literature", "search"],
-        "title": "Scholarly"
       },
       "schemaVersion": 1
     },
