@@ -5,14 +5,14 @@
     "speak",
     "diagrams_show_me",
     "scholarly",
-    "nba_stats",
     "earthquake",
+    "nba_stats",
     "Bardeen",
-    "factcheck",
     "ImageSearch",
     "Charts_and_Diagrams",
     "domatron",
-    "askyourpdf"
+    "askyourpdf",
+    "factcheck"
   ],
   "plugins": [
     {
