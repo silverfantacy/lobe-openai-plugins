@@ -1,8 +1,8 @@
 {
   "expires": [
     "GifApi",
-    "socialsearch",
     "stackoverflow_plus",
+    "socialsearch",
     "speak",
     "diagrams_show_me",
     "scholarly",
@@ -11,8 +11,8 @@
     "earthquake",
     "Bardeen",
     "ImageSearch",
-    "MediumGPTPlugin",
     "Charts_and_Diagrams",
+    "MediumGPTPlugin",
     "factcheck",
     "askyourpdf",
     "Space"
