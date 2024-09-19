@@ -13,9 +13,9 @@
     "ImageSearch",
     "Charts_and_Diagrams",
     "MediumGPTPlugin",
-    "factcheck",
     "askyourpdf",
-    "Space"
+    "Space",
+    "factcheck"
   ],
   "plugins": [
     {
