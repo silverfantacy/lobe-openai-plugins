@@ -1,9 +1,10 @@
 {
   "expires": [
     "GifApi",
-    "socialsearch",
     "stackoverflow_plus",
+    "socialsearch",
     "speak",
+    "diagrams_show_me",
     "scholarly",
     "domatron",
     "nba_stats",
@@ -14,8 +15,7 @@
     "Charts_and_Diagrams",
     "askyourpdf",
     "factcheck",
-    "Space",
-    "diagrams_show_me"
+    "Space"
   ],
   "plugins": [
     {
