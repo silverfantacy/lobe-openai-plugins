@@ -1,19 +1,19 @@
 {
   "expires": [
     "GifApi",
-    "stackoverflow_plus",
     "socialsearch",
+    "stackoverflow_plus",
     "speak",
     "scholarly",
     "domatron",
     "nba_stats",
     "earthquake",
     "Bardeen",
-    "factcheck",
     "ImageSearch",
-    "Charts_and_Diagrams",
     "MediumGPTPlugin",
+    "Charts_and_Diagrams",
     "askyourpdf",
+    "factcheck",
     "Space",
     "diagrams_show_me"
   ],
