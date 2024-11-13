@@ -13,7 +13,9 @@
     "diceroller",
     "factcheck",
     "ImageSearch",
+    "seo_assistant",
     "MediumGPTPlugin",
+    "AladinSearchBooks",
     "askyourpdf",
     "Space",
     "Charts_and_Diagrams",
@@ -307,19 +309,6 @@
       "schemaVersion": 1
     },
     {
-      "author": "azurewebsites",
-      "homepage": "https://aladin-search-book.azurewebsites.net",
-      "identifier": "AladinSearchBooks",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/manifest.json",
-      "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/aladin-search-book/logo.webp",
-        "description": "Search for books on Aladin.",
-        "tags": ["book", "search"],
-        "title": "AladinBooks"
-      },
-      "schemaVersion": 1
-    },
-    {
       "author": "pulsetic",
       "homepage": "https://api.pulsetic.com",
       "identifier": "uptime",
@@ -394,19 +383,6 @@
         "description": "Analyze stocks and get comprehensive real-time investment data and analytics.",
         "tags": ["stock"],
         "title": "PortfolioMeta"
-      },
-      "schemaVersion": 1
-    },
-    {
-      "author": "webfx",
-      "homepage": "https://webfx.ai",
-      "identifier": "seo_assistant",
-      "manifest": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/manifest.json",
-      "meta": {
-        "avatar": "https://openai-collections.chat-plugin.lobehub.com/seo-assistant/logo.webp",
-        "description": "The SEO Assistant can generate search engine keyword information in order to aid the creation of content.",
-        "tags": ["seo", "keyword"],
-        "title": "SEO Assistant"
       },
       "schemaVersion": 1
     },
