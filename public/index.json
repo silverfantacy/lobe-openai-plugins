@@ -10,13 +10,13 @@
     "nba_stats",
     "earthquake",
     "Bardeen",
-    "factcheck",
     "diceroller",
+    "factcheck",
     "ImageSearch",
     "MediumGPTPlugin",
     "askyourpdf",
-    "Space",
     "Charts_and_Diagrams",
+    "Space",
     "diagrams_show_me"
   ],
   "plugins": [
