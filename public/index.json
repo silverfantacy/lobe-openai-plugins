@@ -1,9 +1,10 @@
 {
   "expires": [
     "GifApi",
-    "socialsearch",
     "stackoverflow_plus",
+    "socialsearch",
     "TokenInsights",
+    "diagrams_show_me",
     "ResearchAI",
     "domatron",
     "nba_stats",
@@ -13,7 +14,6 @@
     "factcheck",
     "ImageSearch",
     "MediumGPTPlugin",
-    "diagrams_show_me",
     "askyourpdf",
     "scholarly",
     "Space",
