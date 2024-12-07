@@ -1,13 +1,13 @@
 {
   "expires": [
     "GifApi",
-    "stackoverflow_plus",
     "socialsearch",
+    "stackoverflow_plus",
     "TokenInsights",
     "diagrams_show_me",
-    "ResearchAI",
     "domatron",
     "nba_stats",
+    "ResearchAI",
     "earthquake",
     "Bardeen",
     "diceroller",
