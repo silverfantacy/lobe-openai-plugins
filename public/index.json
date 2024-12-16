@@ -6,9 +6,9 @@
     "TokenInsights",
     "diagrams_show_me",
     "ResearchAI",
-    "domatron",
-    "nba_stats",
     "earthquake",
+    "nba_stats",
+    "domatron",
     "Bardeen",
     "diceroller",
     "factcheck",
@@ -16,8 +16,8 @@
     "MediumGPTPlugin",
     "askyourpdf",
     "scholarly",
-    "Charts_and_Diagrams",
-    "Space"
+    "Space",
+    "Charts_and_Diagrams"
   ],
   "plugins": [
     {
