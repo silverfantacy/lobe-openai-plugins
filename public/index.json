@@ -1,9 +1,9 @@
 {
   "expires": [
     "GifApi",
-    "socialsearch",
     "stackoverflow_plus",
     "TokenInsights",
+    "socialsearch",
     "make_an_excel_sheet",
     "diagrams_show_me",
     "scholarly",
@@ -16,8 +16,8 @@
     "ImageSearch",
     "MediumGPTPlugin",
     "askyourpdf",
-    "Charts_and_Diagrams",
     "factcheck",
+    "Charts_and_Diagrams",
     "Space"
   ],
   "plugins": [
